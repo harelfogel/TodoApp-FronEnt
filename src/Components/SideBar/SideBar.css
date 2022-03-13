@@ -1,0 +1,6 @@
+.list-item::selection {
+    background-color: rgb(68, 68, 14);
+    color: rgb(70, 70, 238) ;
+    font-weight: bold;
+  }
+  

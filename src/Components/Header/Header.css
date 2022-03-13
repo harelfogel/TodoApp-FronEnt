@@ -1,0 +1,20 @@
+.logout-btn{
+    margin-left: 1230px;
+
+}
+
+.user-login{
+    margin-right: 1110px;
+}
+
+.nav-link{
+    text-decoration: none;
+    cursor: pointer;
+    color:white;
+    font-size: 1.25rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+}
+
